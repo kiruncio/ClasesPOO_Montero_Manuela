@@ -53,7 +53,7 @@ public class E2_Empleado {
 
         empleado1.mostrar_info();
         empleado2.mostrar_info();
-        empleado2.mostrar_info();
+        empleado3.mostrar_info();
     }
 
 }
